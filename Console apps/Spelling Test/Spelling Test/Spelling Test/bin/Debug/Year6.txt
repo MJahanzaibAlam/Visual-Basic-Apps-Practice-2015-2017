@@ -1,0 +1,6 @@
+Chicken, Master, 0, True, 01/08/2015, 0, 0, 0, 18
+Mohammad, Alam, 0, False, 01/08/2015, 0, 0, 0, 0
+Mohammad, Aladuck, 0, True, 01/08/2015, 0, 0, 0, 29
+Wraowlafa, Monsta, 0, False, 01/08/2015, 0, 0, 0, 0
+ara, ara, 0, True, 01/08/2015, 0, 0, 0, 49
+ara, wa, 0, False, 01/08/2015, 0, 0, 0, 0

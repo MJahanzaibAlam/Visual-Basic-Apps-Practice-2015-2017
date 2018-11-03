@@ -1,0 +1,16 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\bin\Debug\RogueVals.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\bin\Debug\RogueVals.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\bin\Debug\RogueVals.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\RogueVals.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\RogueVals.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\RogueVals.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\RogueVals\obj\x86\Debug\RogueVals.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\RogueVals\RogueVals\obj\x86\Debug\RogueVals.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\RogueVals\RogueVals\obj\x86\Debug\RogueVals.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\RogueVals\RogueVals\obj\x86\Debug\RogueVals.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\RogueVals\RogueVals\obj\x86\Debug\RogueVals.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\RogueVals\RogueVals\obj\x86\Debug\RogueVals.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\RogueVals\RogueVals\obj\x86\Debug\RogueVals.pdb

@@ -1,0 +1,13 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\bin\Debug\DoWhile.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\bin\Debug\DoWhile.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\bin\Debug\DoWhile.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\DoWhile.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\DoWhile.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\DoWhile.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\DoWhile\obj\x86\Debug\DoWhile.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\DoWhile\DoWhile\obj\x86\Debug\DoWhile.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\DoWhile\DoWhile\obj\x86\Debug\DoWhile.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\DoWhile\DoWhile\obj\x86\Debug\DoWhile.pdb

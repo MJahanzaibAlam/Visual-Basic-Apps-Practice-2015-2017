@@ -1,0 +1,20 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\bin\Debug\VB Practical Test Task 2.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\bin\Debug\VB Practical Test Task 2.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\bin\Debug\VB Practical Test Task 2.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\VB_Practical_Test_Task_2.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\VB Practical Test Task 2.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\VB Practical Test Task 2.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\VB Practical Test Task 2\obj\x86\Debug\VB Practical Test Task 2.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\VB Practical Test Task 2.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\VB Practical Test Task 2.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\VB Practical Test Task 2.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\bin\Debug\VB Practical Test Task 2.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\bin\Debug\VB Practical Test Task 2.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\bin\Debug\VB Practical Test Task 2.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\VB_Practical_Test_Task_2.Resources.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\VB Practical Test Task 2\VB Practical Test Task 2\obj\x86\Debug\GenerateResource.write.1.tlog

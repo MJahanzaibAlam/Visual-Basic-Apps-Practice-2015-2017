@@ -1,0 +1,11 @@
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\bin\Debug\Stack.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.Form1.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.Resources.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\GenerateResource.write.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Stack\Stack\obj\x86\Debug\Stack.pdb

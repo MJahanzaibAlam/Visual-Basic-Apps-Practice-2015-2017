@@ -1,0 +1,13 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\bin\Debug\SubRoutines.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\bin\Debug\SubRoutines.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\bin\Debug\SubRoutines.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\SubRoutines.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\SubRoutines.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\SubRoutines.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\SubRoutines\obj\x86\Debug\SubRoutines.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\SubRoutines\SubRoutines\obj\x86\Debug\SubRoutines.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\SubRoutines\SubRoutines\obj\x86\Debug\SubRoutines.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\SubRoutines\SubRoutines\obj\x86\Debug\SubRoutines.pdb

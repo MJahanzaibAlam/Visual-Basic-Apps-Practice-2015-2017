@@ -1,0 +1,23 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\bin\Debug\Rogue Values.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\bin\Debug\Rogue Values.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\bin\Debug\Rogue Values.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\Rogue_Values.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\Rogue Values.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\Rogue Values.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Rogue Values\obj\x86\Debug\Rogue Values.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\Rogue Values.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\Rogue Values.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\Rogue Values.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\bin\Debug\Rogue Values.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\bin\Debug\Rogue Values.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\bin\Debug\Rogue Values.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\Rogue_Values.Resources.resources
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Rogue Values\Rogue Values\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Rogue Values\Rogue Values\obj\x86\Debug\Rogue Values.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Rogue Values\Rogue Values\obj\x86\Debug\Rogue Values.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Rogue Values\Rogue Values\obj\x86\Debug\Rogue Values.pdb

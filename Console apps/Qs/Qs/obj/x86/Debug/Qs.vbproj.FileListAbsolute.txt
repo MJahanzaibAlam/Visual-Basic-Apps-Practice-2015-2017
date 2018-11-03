@@ -1,0 +1,26 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\bin\Debug\Qs.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\bin\Debug\Qs.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\bin\Debug\Qs.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\Qs.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\Qs.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\Qs.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Qs\obj\x86\Debug\Qs.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\Qs.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\Qs.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\Qs.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\bin\Debug\Qs.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\bin\Debug\Qs.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\bin\Debug\Qs.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\Qs.Resources.resources
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Qs\Qs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Qs\Qs\obj\x86\Debug\Qs.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Qs\Qs\obj\x86\Debug\Qs.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Qs\Qs\obj\x86\Debug\Qs.pdb
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\Projects\Console apps\Qs\Qs\obj\x86\Debug\Qs.exe
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\Projects\Console apps\Qs\Qs\obj\x86\Debug\Qs.xml
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\Projects\Console apps\Qs\Qs\obj\x86\Debug\Qs.pdb

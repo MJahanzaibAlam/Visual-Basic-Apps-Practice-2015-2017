@@ -1,0 +1,10 @@
+Duck, A yellow creature
+Chicken, A different creature
+Goose, A white creature
+Dinosaur, A scary creature
+Bulbasaur, A green pokemon
+Card, Better than paper
+Massive, something large, adjective
+Folder, Something that folds
+ninth, the adjective of this Q.
+ten, the number 10

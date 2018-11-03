@@ -1,0 +1,13 @@
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\bin\Debug\Vending Machine.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending Machine.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending Machine.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb

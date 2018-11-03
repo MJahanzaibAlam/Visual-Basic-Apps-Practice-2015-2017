@@ -1,0 +1,10 @@
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\bin\Debug\Addresses.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\bin\Debug\Addresses.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\bin\Debug\Addresses.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\Addresses.Resources.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\GenerateResource.write.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\Addresses.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\Addresses.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Addresses\Addresses\obj\x86\Debug\Addresses.pdb

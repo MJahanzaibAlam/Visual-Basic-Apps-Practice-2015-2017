@@ -1,0 +1,13 @@
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\bin\Debug\Squares.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\bin\Debug\Squares.pdb
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\bin\Debug\Squares.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.Resources.resources
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Squares\obj\x86\Debug\Squares.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Squares\Squares\obj\x86\Debug\Squares.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Squares\Squares\obj\x86\Debug\Squares.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Squares\Squares\obj\x86\Debug\Squares.pdb

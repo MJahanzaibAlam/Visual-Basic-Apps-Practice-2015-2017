@@ -1,0 +1,14 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\bin\Debug\Do While Multiplication.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\bin\Debug\Do While Multiplication.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\bin\Debug\Do While Multiplication.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\Do_While_Multiplication.DoWhileMultiplication.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\Do_While_Multiplication.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\Do While Multiplication.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\Do While Multiplication.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Do While Multiplication\obj\x86\Debug\Do While Multiplication.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Do While Multiplication\Do While Multiplication\obj\x86\Debug\Do While Multiplication.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Do While Multiplication\Do While Multiplication\obj\x86\Debug\Do While Multiplication.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Do While Multiplication\Do While Multiplication\obj\x86\Debug\Do While Multiplication.pdb

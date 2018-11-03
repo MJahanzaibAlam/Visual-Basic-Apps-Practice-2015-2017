@@ -1,0 +1,23 @@
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\bin\Debug\Triangles.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\bin\Debug\Triangles.pdb
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\bin\Debug\Triangles.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\Triangles.Resources.resources
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\Triangles.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\Triangles.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Triangles\obj\x86\Debug\Triangles.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\Triangles.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\Triangles.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\Triangles.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\bin\Debug\Triangles.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\bin\Debug\Triangles.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\bin\Debug\Triangles.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\Triangles.Resources.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Triangles\Triangles\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Triangles\Triangles\obj\x86\Debug\Triangles.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Triangles\Triangles\obj\x86\Debug\Triangles.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Triangles\Triangles\obj\x86\Debug\Triangles.pdb

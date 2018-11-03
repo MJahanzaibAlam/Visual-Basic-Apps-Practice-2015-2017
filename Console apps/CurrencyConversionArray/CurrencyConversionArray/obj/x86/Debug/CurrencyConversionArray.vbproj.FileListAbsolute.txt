@@ -1,0 +1,10 @@
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\bin\Debug\CurrencyConversionArray.exe
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\bin\Debug\CurrencyConversionArray.pdb
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\bin\Debug\CurrencyConversionArray.xml
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\ConsoleApplication1.Resources.resources
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\GenerateResource.write.1.tlog
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\CurrencyConversionArray.exe
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\CurrencyConversionArray.xml
+\\file-home2\MohAla151$\Desktop\CurrencyConversionArray\CurrencyConversionArray\obj\x86\Debug\CurrencyConversionArray.pdb

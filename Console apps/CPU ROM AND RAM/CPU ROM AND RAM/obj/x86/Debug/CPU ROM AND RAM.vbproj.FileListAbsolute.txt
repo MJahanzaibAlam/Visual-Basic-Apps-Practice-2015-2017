@@ -1,0 +1,10 @@
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\bin\Debug\CPU ROM AND RAM.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\bin\Debug\CPU ROM AND RAM.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\bin\Debug\CPU ROM AND RAM.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\CPU_ROM_AND_RAM.Resources.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\GenerateResource.write.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\CPU ROM AND RAM.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\CPU ROM AND RAM.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\CPU ROM AND RAM\CPU ROM AND RAM\obj\x86\Debug\CPU ROM AND RAM.pdb

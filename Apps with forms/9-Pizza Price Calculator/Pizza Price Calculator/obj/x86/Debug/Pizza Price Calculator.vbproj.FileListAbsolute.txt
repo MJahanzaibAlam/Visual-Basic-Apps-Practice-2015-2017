@@ -1,0 +1,11 @@
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\bin\Debug\Pizza Price Calculator.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\bin\Debug\Pizza Price Calculator.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\bin\Debug\Pizza Price Calculator.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\Pizza_Price_Calculator.Form1.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\Pizza_Price_Calculator.Resources.resources
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\Pizza Price Calculator.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\Pizza Price Calculator.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Pizza Price Calculator\Pizza Price Calculator\obj\x86\Debug\Pizza Price Calculator.pdb

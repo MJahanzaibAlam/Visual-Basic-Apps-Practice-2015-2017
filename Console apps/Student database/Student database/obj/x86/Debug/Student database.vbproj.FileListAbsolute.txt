@@ -1,0 +1,26 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\bin\Debug\Student database.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\bin\Debug\Student database.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\bin\Debug\Student database.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\Student_database.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\Student database.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\Student database.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Student database\obj\x86\Debug\Student database.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student database.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student database.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student database.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\bin\Debug\Student database.exe
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\bin\Debug\Student database.pdb
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\bin\Debug\Student database.xml
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student_database.Resources.resources
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\MohAla151$\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student database.exe
+N:\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student database.xml
+N:\Visual Studio 2010\Projects\Student database\Student database\obj\x86\Debug\Student database.pdb
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\Projects\Console apps\Student database\Student database\obj\x86\Debug\Student database.exe
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\Projects\Console apps\Student database\Student database\obj\x86\Debug\Student database.xml
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\Projects\Console apps\Student database\Student database\obj\x86\Debug\Student database.pdb

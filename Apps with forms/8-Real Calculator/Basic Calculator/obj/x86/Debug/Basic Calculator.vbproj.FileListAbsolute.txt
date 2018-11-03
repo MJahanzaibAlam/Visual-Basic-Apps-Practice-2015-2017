@@ -1,0 +1,23 @@
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.xml
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic_Calculator.Calculator.resources
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic_Calculator.Resources.resources
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.vbproj.GenerateResource.Cache
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.exe
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.xml
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.pdb
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.exe
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.xml
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.pdb
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.xml
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic_Calculator.Calculator.resources
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\Basic_Calculator.Resources.resources
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\MohAla151$\Desktop\Desktop\Basic Calculator\Basic Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Forms\6-Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Forms\6-Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Forms\6-Basic Calculator\Basic Calculator\obj\x86\Debug\Basic Calculator.pdb

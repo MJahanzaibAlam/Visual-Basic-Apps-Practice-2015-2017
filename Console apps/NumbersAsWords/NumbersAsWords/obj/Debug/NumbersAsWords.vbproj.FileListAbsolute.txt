@@ -1,0 +1,11 @@
+C:\Users\Jahan\AppData\Local\Temporary Projects\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\bin\Debug\NumbersAsWords.exe.config
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\bin\Debug\NumbersAsWords.exe
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\bin\Debug\NumbersAsWords.pdb
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\bin\Debug\NumbersAsWords.xml
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\obj\Debug\NumbersAsWords.vbprojResolveAssemblyReference.cache
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\obj\Debug\NumbersAsWords.Resources.resources
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\obj\Debug\NumbersAsWords.vbproj.GenerateResource.Cache
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\obj\Debug\NumbersAsWords.exe
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\obj\Debug\NumbersAsWords.xml
+C:\Users\Jahan\OneDrive\Documents\Visual Studio 2015\Projects\NumbersAsWords\NumbersAsWords\obj\Debug\NumbersAsWords.pdb

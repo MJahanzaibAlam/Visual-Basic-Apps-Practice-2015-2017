@@ -1,0 +1,23 @@
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\bin\Debug\Dice.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\bin\Debug\Dice.pdb
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\bin\Debug\Dice.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\Dice.Resources.resources
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\Dice.exe
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\Dice.xml
+C:\Users\mohala151\AppData\Local\Temporary Projects\Dice\obj\x86\Debug\Dice.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Dice\Dice\obj\x86\Debug\Dice.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Dice\Dice\obj\x86\Debug\Dice.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Dice\Dice\obj\x86\Debug\Dice.pdb
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\Dice.exe
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\Dice.xml
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\Dice.pdb
+\\file-home2\MohAla151$\Desktop\Dice\Dice\bin\Debug\Dice.exe
+\\file-home2\MohAla151$\Desktop\Dice\Dice\bin\Debug\Dice.pdb
+\\file-home2\MohAla151$\Desktop\Dice\Dice\bin\Debug\Dice.xml
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\ResolveAssemblyReference.cache
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\Dice.Resources.resources
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\GenerateResource.read.1.tlog
+\\file-home2\MohAla151$\Desktop\Dice\Dice\obj\x86\Debug\GenerateResource.write.1.tlog

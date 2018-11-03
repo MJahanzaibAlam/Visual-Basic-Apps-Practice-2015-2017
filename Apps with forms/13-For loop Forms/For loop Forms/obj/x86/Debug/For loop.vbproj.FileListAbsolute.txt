@@ -1,0 +1,11 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\bin\Debug\For loop.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\bin\Debug\For loop.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\bin\Debug\For loop.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\For_loop.ForLoop.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\For_loop.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\For loop.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\For loop.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\For loop\obj\x86\Debug\For loop.pdb

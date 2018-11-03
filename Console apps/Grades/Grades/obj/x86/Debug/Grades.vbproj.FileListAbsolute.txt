@@ -1,0 +1,13 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\bin\Debug\Grades.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Grades\obj\x86\Debug\Grades.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Grades\Grades\obj\x86\Debug\Grades.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Grades\Grades\obj\x86\Debug\Grades.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Grades\Grades\obj\x86\Debug\Grades.pdb

@@ -1,0 +1,14 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\Nested_Loops.Form1.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\Nested_Loops.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\bin\Debug\Nested Loops.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\bin\Debug\Nested Loops.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\bin\Debug\Nested Loops.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\Nested Loops.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\Nested Loops.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Nested Loops\obj\x86\Debug\Nested Loops.pdb
+\\file-home2\mohala151$\visual studio 2010\Projects\Nested Loops\Nested Loops\obj\x86\Debug\Nested Loops.exe
+\\file-home2\mohala151$\visual studio 2010\Projects\Nested Loops\Nested Loops\obj\x86\Debug\Nested Loops.xml
+\\file-home2\mohala151$\visual studio 2010\Projects\Nested Loops\Nested Loops\obj\x86\Debug\Nested Loops.pdb

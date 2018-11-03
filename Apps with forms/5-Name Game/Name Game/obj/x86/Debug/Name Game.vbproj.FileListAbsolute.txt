@@ -1,0 +1,9 @@
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\bin\Debug\Name Game.exe
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\bin\Debug\Name Game.pdb
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\bin\Debug\Name Game.xml
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\obj\x86\Debug\Name_Game.Form1.resources
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\obj\x86\Debug\Name_Game.Resources.resources
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\obj\x86\Debug\Name Game.vbproj.GenerateResource.Cache
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\obj\x86\Debug\Name Game.exe
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\obj\x86\Debug\Name Game.xml
+C:\Users\Mohammad Jahanzaib\documents\visual studio 2010\Projects\Name Game\Name Game\obj\x86\Debug\Name Game.pdb

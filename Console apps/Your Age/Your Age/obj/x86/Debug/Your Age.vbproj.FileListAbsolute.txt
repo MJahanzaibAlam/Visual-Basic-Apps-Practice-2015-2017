@@ -1,0 +1,19 @@
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\bin\Debug\Your Age.exe
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\bin\Debug\Your Age.pdb
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\bin\Debug\Your Age.xml
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\obj\x86\Debug\Your_Age.Resources.resources
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\obj\x86\Debug\Your Age.vbproj.GenerateResource.Cache
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\obj\x86\Debug\Your Age.exe
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\obj\x86\Debug\Your Age.xml
+C:\Users\Jahanzaib\AppData\Local\Temporary Projects\Your Age\obj\x86\Debug\Your Age.pdb
+C:\Users\Jahanzaib\documents\visual studio 2010\Projects\Your Age\Your Age\obj\x86\Debug\Your Age.exe
+C:\Users\Jahanzaib\documents\visual studio 2010\Projects\Your Age\Your Age\obj\x86\Debug\Your Age.xml
+C:\Users\Jahanzaib\documents\visual studio 2010\Projects\Your Age\Your Age\obj\x86\Debug\Your Age.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Your Age\Your Age\bin\Debug\Your Age.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Your Age\Your Age\bin\Debug\Your Age.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Your Age\Your Age\bin\Debug\Your Age.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Your Age\Your Age\obj\x86\Debug\Your_Age.Resources.resources
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Your Age\Your Age\obj\x86\Debug\Your Age.vbproj.GenerateResource.Cache
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Your Age\Your Age\obj\x86\Debug\Your Age.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Your Age\Your Age\obj\x86\Debug\Your Age.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Your Age\Your Age\obj\x86\Debug\Your Age.pdb

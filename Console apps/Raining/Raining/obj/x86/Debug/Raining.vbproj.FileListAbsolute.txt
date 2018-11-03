@@ -1,0 +1,13 @@
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\bin\Debug\Raining.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\bin\Debug\Raining.pdb
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\bin\Debug\Raining.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\Raining.Resources.resources
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\Raining.exe
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\Raining.xml
+C:\Users\mohala151.LORETO\AppData\Local\Temporary Projects\Raining\obj\x86\Debug\Raining.pdb
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Raining\Raining\obj\x86\Debug\Raining.exe
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Raining\Raining\obj\x86\Debug\Raining.xml
+C:\Users\Jahanzaib\Documents\Visual Studio 2010\Projects\Console apps\Raining\Raining\obj\x86\Debug\Raining.pdb
